@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\ExpenseMate\\ExpenseMate\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ExpenseMate.styles.css",
+      "PackagePath": "staticwebassets\\ExpenseMate.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\ExpenseMate\\ExpenseMate\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\ExpenseMate\\ExpenseMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\ExpenseMate\\ExpenseMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\ExpenseMate\\ExpenseMate\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\ExpenseMate\\ExpenseMate\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.ExpenseMate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.ExpenseMate.props",
+      "PackagePath": "build\\ExpenseMate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.ExpenseMate.props",
+      "PackagePath": "buildMultiTargeting\\ExpenseMate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.ExpenseMate.props",
+      "PackagePath": "buildTransitive\\ExpenseMate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
